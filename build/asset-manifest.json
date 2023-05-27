@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9df74742.css",
+    "main.js": "/static/js/main.cd73a16f.js",
+    "static/media/home1.jpg": "/static/media/home1.63495935e947a06e4e65.jpg",
+    "static/media/traditional-saree.jpg": "/static/media/traditional-saree.b485654ffe28a6420b14.jpg",
+    "static/media/trendy-dress.jpg": "/static/media/trendy-dress.21ebd5e554a06b365adb.jpg",
+    "static/media/trendy.jpg": "/static/media/trendy.5f771eb505a1cf9f69ab.jpg",
+    "static/media/traditional.jpg": "/static/media/traditional.a2f63c5f9c26d7c11a93.jpg",
+    "static/media/empty-cart.jpg": "/static/media/empty-cart.66f4b0d6f771756ea9fc.jpg",
+    "index.html": "/index.html",
+    "main.9df74742.css.map": "/static/css/main.9df74742.css.map",
+    "main.cd73a16f.js.map": "/static/js/main.cd73a16f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df74742.css",
+    "static/js/main.cd73a16f.js"
+  ]
+}
